@@ -1,15 +1,41 @@
 [
   {
     "enable": true,
-    "alias": "张三",
-    "phone": "18888888888",
-    "password": "123456...",
-    "randomLocation": false,
+    "alias": "陈晓峰",
+    "phone": "15517703938",
+    "password": "Chen1234.",
     "deviceType": "Xiaomi|Mi 13|13",
-    "deviceId": "设备ID",
-    "address": "打卡地址",
-    "longitude": "位置经度",
-    "latitude": "位置纬度",
-    "pushKey": "推送Key"
-  }
+    "deviceId": "5a3dd22d5c4d4b6eabcdd3f70a8dc591d574",
+    "randomLocation": true,
+    "address": "中国河南省南阳市新城国际",
+    "longitude": "112.566643",
+    "latitude": "33.029758",
+    "pushKey": "38bcb1d102c0454b86cf24e024f399d0"
+  },
+{
+    "enable": true,
+    "alias": "刘政铎",
+    "phone": "18037719376",
+    "password": "l685049.",
+    "deviceType": "Xiaomi|Mi 13|13",
+    "deviceId": "0832b1c356b148efb342db3c3f809821da7b",
+    "randomLocation": true,
+    "address": "中国河南省南阳市新城国际",
+    "longitude": "112.566643",
+    "latitude": "33.029758",
+    "pushKey": "38bcb1d102c0454b86cf24e024f399d0"
+  },
+{
+    "enable": true,
+    "alias": "杨研新",
+    "phone": "18337774320",
+    "password": "121414qwe",
+    "deviceType": "Xiaomi|Mi 13|13",
+    "deviceId": "c60352b804b545909f0a63768973c8f909da",
+    "randomLocation": true,
+    "address": "中国河南省南阳市新城国际",
+    "longitude": "112.566643",
+    "latitude": "33.029758",
+    "pushKey": "38bcb1d102c0454b86cf24e024f399d0"
+  },
 ]
